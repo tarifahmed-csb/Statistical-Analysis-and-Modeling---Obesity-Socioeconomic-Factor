@@ -48,7 +48,9 @@ Obesity/
 ├── obesity_analysis_cleaned.py   # Refactored, production-ready local version
 ├── README.md                     # This file
 └── course doc/
-    └── Caruso_Ahmed_Obesity.pptx # Project presentation slides
+    └── Caruso_Ahmed_Presentation.pptx # Project presentation slides
+    └── Caruso_Ahmed_ReportBanner.png
+
 ```
 
 *   **`ahmed_caruso_obesity.py`**: The original script used for the initial research. It is designed for Google Colab and contains hardcoded paths.
